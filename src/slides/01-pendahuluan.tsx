@@ -1,9 +1,9 @@
 const members = [
-    'Revalina Erica Permatasri (007)',
+    'Revalina Erica Permatasari (007)',
     'Clarissa Aydin Rahmazea (014)',
     'Muhammad Afrizan Rasya (048)',
     'Angga Firmansyah (062)',
-    'Jofanka Al-Kautsar P A (107)',
+    'Jofanka Al-Kautsar Pangestu Abady (107)',
 ]
 
 export default function Slide01() {
